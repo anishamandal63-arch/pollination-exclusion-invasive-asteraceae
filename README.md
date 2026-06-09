@@ -1,4 +1,4 @@
-# Pollination exclusion- contrasting reproductive strategies among three invasive Asteraceae species in the Eastern Himalaya
+# Pollination exclusion treatments - contrasting reproductive strategies among three invasive Asteraceae species in the Eastern Himalaya
 
 ## Overview
 
