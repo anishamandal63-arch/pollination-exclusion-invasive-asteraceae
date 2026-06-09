@@ -49,6 +49,29 @@ R script used to:
 * L = Large mesh treatment (~8 mm)
 * S = Small mesh treatment (~1 mm)
 
+## Data Dictionary
+
+### seeddata.csv
+
+| Column | Description |
+|----------|-------------|
+| Species | Invasive plant species |
+| Mesh | Pollination treatment (C, O, L, S) |
+| Developed | Number of mature seeds |
+| Undeveloped | Number of under-developed seeds |
+| Seed.set.per.floret | Mature seeds produced per floret |
+| Weight.per.seed | Seed mass per seed (mg) |
+| Set | Experimental and Control  |
+
+### Poll_ex_pollinators_chap_2.csv
+
+| Column | Description |
+|----------|-------------|
+| Species | Plant species observed |
+| SN | Pollinator species name |
+| Order | Pollinator order |
+| PN | Number of pollinator interactions |
+
 ## Software
 
 Analyses were conducted using:
